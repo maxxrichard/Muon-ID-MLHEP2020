@@ -48,3 +48,15 @@ Use the following `wget` commands to download the necessary datasets:
 
    ```bash
    wget --content-disposition https://codalab.coresearch.club/my/datasets/download/3a5e940c-2382-4716-9f77-8fbc2692337d -O data/test-features.csv.gz
+
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
+
+## Acknowledgments
+
+- The LHCb Collaboration for their groundbreaking work in particle physics.
+- CERN for providing data and computational resources.
+- The open-source community for tools and libraries used in this project.
+- Any contributors or individuals who provided insights or assistance.
